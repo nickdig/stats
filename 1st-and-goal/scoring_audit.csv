@@ -1,0 +1,2 @@
+season,season_type,game_id,play_id,game_seconds_remaining,drive,fixed_drive,fixed_drive_result,down,goal_to_go,yardline_100,play_type,penalty,posteam,td_team,touchdown,return_touchdown,desc,drive_key,offensive_td_flag,td
+2011,REG,2011_13_DET_NO,1655.0,1952.0,8.0,11.0,Field goal,1.0,1,2.0,run,0.0,DET,DET,1.0,0.0,"(2:32) 30-K.Smith left guard for 2 yards, TOUCHDOWN.",11.0,True,False

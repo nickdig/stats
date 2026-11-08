@@ -1,0 +1,9 @@
+# Cached nflverse play-by-play parquet downloads
+data/
+
+# Local environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]

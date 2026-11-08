@@ -1,0 +1,18 @@
+{
+  "seasons": [
+    1999,
+    2025
+  ],
+  "season_types": [
+    "REG",
+    "POST"
+  ],
+  "in_progress_2026_included": false,
+  "drives": 23279,
+  "touchdowns": 16550,
+  "td_pct": 71.09411916319429,
+  "scoring_flag_mismatches": 1,
+  "yardline_min": 1.0,
+  "yardline_max": 25.0,
+  "source": "https://github.com/nflverse/nflverse-data/releases/tag/pbp"
+}
